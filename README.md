@@ -6,6 +6,7 @@
 # 分支 branch
 
 - git checkout 切换分支
+  - git checkout -b 分支名 基于当期所在的分支去创建一个新分支
 
 - git branch 
 
