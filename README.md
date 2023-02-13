@@ -12,7 +12,7 @@
   - git branch 直接查看本地所有分支
   - git branch 分支名 创建一个新分支（但不会切换过去）
   - git branch -D 分支名
-  
+
 - git add
 
 - git commit 
@@ -20,10 +20,16 @@
 - git pull
 
 - git push
+  - git push --set-upstream origin 分支名
+  - git push origin --delete 分支名
 
-- git merge
+- git remote 
+  - git remote add origin url 
+  - git remote rm origin
 
-- git rebase 
+- git merge 在当前分支上 把其他分支合并到当前分支
+
+- git rebase 在当前分支上 把其他分支合并到当前分支
 
 - git log
 
