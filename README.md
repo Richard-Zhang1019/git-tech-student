@@ -28,6 +28,7 @@
   - git remote rm origin
 
 - git merge 在当前分支上 把其他分支合并到当前分支
+  - 适用于在主分支上合并子分支
 
 - git rebase 在当前分支上 把其他分支合并到当前分支
 
